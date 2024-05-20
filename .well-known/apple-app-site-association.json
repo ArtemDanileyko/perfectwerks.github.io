@@ -1,0 +1,25 @@
+{
+  "activitycontinuation": {
+    "apps": [
+      "FAGNQ6N5QW.com.orionswave.perfectwerks.dev"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "FAGNQ6N5QW.com.orionswave.perfectwerks.dev",
+        "paths": [
+          "*",
+          "/*"
+        ],
+        "components": [
+          {
+            "/": "/Recipe/*",
+            "comment": "Matches any URL with a path that starts with /Recipe/."
+          }
+        ]
+      }
+    ]
+  }
+}
